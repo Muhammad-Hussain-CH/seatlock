@@ -1,7 +1,7 @@
 import asyncio
 import httpx
 
-URL = "http://127.0.0.1:8000/bookings/naive"
+URL = "http://127.0.0.1:8000/bookings"
 SEAT_ID = 1
 NUM_REQUESTS = 50
 
